@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/shinji2.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/mecha1.gif">
 </div>
 
 </br>
