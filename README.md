@@ -70,7 +70,7 @@
 
 If you want to reach out to me about anything, this is my social media links ✍️.
 
-<a href="mohammedbusiness1099@gmail.com">
+<a href = "mailto: mohammedbusiness1099@gmail.com"  >
  <img align="left" alt="Gmail" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohammed-sinan-396640260/">
