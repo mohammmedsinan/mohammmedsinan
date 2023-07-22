@@ -91,7 +91,7 @@ If you want to reach out to me about anything, this is my social media links ✍
 </td>
 <td valign="left">
 <a href="https://mohammed-sinan.netlify.app/">
-  <img align="left" alt="Steam" width="90px" hight="90px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
+  <img align="left" alt="Steam" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
 </td>
 </a>
 </tr>
