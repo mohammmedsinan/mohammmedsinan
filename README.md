@@ -9,7 +9,7 @@
 </br>
 
 
-# About ME 💬 :
+# About ME 📜 :
 
 ### - I'm a Front-end Developer with three years of Web development experience, also I have experience in Back-end.
 
@@ -23,10 +23,10 @@
 - 🟣 Javascript with makeup = Typescript
 
 ### - Hobbies : 
+- 🟪 Building Smart home
+- 🟣 Solve problems by programming
 - 🟪 Watching [Films, TV Shows, Anime]
 - 🟣 Reading [Books, Novels & Light novels, Manga]
-- 🟪 Building Smart home
-- 🟣 
 
 </br>
 </br>
@@ -34,7 +34,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools 👨‍💻 :
 </br>
 
 <p align="center">
