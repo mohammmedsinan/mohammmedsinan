@@ -74,24 +74,24 @@ If you want to reach out to me about anything, this is my social media links ✍
 <tr>
 <td valign="center">
   <a href = "mailto: mohammedbusiness1099@gmail.com"  >
-    <img align="left" alt="Gmail" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
+    <img align="center" alt="Gmail" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
   </a>
 </td>
-<td valign="left">
+<td valign="center">
   <a href="https://www.linkedin.com/in/mohammed-sinan-396640260/">
-      <img align="left" alt="Linkedin" width="60px" hight="60px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
+      <img align="center" alt="Linkedin" width="60px" hight="60px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
   </a>
 </td>
 </tr>
 <tr>
 <td valign="center">
 <a href="https://twitter.com/MohammedSMofeed">
-  <img align="left" alt=" Reddit" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
+  <img align="center" alt=" Reddit" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
 </a>
 </td>
-<td valign="left">
+<td valign="center">
 <a href="https://mohammed-sinan.netlify.app/">
-  <img align="left" alt="Steam" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
+  <img align="center" alt="Steam" width="90px" hight="90px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/sof.png" />
 </td>
 </a>
 </tr>
