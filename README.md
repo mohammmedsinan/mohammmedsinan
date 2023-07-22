@@ -98,12 +98,8 @@ If you want to reach out to me about anything, this is my social media links ✍
 
 </table>
  </p>
- 
 
-</br>
-</br>
-</br>
-</br>
+
 </br>
 </br>
 </br>
