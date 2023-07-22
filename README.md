@@ -83,11 +83,6 @@ If you want to reach out to me about anything, this is my social media links ✍
   </a>
 </td>
 </tr>
-</br>
-</br>
-</br>
-</br>
-</br>
 <tr>
 <td valign="left">
 <a href="https://twitter.com/MohammedSMofeed">
