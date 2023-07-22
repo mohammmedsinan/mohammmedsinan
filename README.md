@@ -82,11 +82,11 @@ If you want to reach out to me about anything, this is my social media links ✍
 </br>
 </br>
 
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
+<a href="https://twitter.com/MohammedSMofeed">
   <img align="left" alt=" Reddit" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130px" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/sof.png" />
+<a href="https://mohammed-sinan.netlify.app/">
+  <img align="left" alt="Steam" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/sof.png" />
 </a>
  </p>
  
