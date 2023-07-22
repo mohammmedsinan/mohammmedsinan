@@ -83,11 +83,6 @@ If you want to reach out to me about anything, this is my social media links ✍
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
 <div align="left">
 <a href="https://twitter.com/MohammedSMofeed">
   <img align="left" alt=" Reddit" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
