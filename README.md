@@ -73,8 +73,6 @@
 # Contact Me 📧 :
 
 <p>
- </br>
-
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/mech2.gif">
 
