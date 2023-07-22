@@ -71,19 +71,19 @@
 If you want to reach out to me about anything, this is my social media links ✍️.
 
 <a href="mohammedbusiness1099@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
+ <img align="left" alt="Gmail" width="80px" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohammed-sinan-396640260/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
+  <img align="left" alt="Linkedin" width="80px" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
+  <img align="left" alt=" Reddit" width="80px" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/sof.png" />
+  <img align="left" alt="Steam" width="130px" hight="100" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/sof.png" />
 </a>
  </p>
  
