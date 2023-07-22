@@ -70,27 +70,38 @@
 
 If you want to reach out to me about anything, this is my social media links ✍️.
 
-<div>
-<a href = "mailto: mohammedbusiness1099@gmail.com"  >
- <img align="left" alt="Gmail" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/mohammed-sinan-396640260/">
-  <img align="left" alt="Linkedin" width="60px" hight="60px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
-</a>
-</div>
+<table>
+<tr>
+<td valign="left">
+  <a href = "mailto: mohammedbusiness1099@gmail.com"  >
+    <img align="left" alt="Gmail" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
+  </a>
+</td>
+<td valign="left">
+  <a href="https://www.linkedin.com/in/mohammed-sinan-396640260/">
+      <img align="left" alt="Linkedin" width="60px" hight="60px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
+  </a>
+</td>
+</tr>
 </br>
 </br>
 </br>
 </br>
 </br>
-<div align="left" display="flex" style="display:flex;">
+<tr>
+<td valign="left">
 <a href="https://twitter.com/MohammedSMofeed">
   <img align="left" alt=" Reddit" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
 </a>
+</td>
+<td valign="left">
 <a href="https://mohammed-sinan.netlify.app/">
   <img align="left" alt="Steam" width="90px" hight="90px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/sof.png" />
+</td>
 </a>
-</div>
+</tr>
+
+</table>
  </p>
  
 
