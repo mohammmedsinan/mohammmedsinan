@@ -71,14 +71,17 @@
 If you want to reach out to me about anything, this is my social media links ✍️.
 
 <a href="mohammedbusiness1099@gmail.com">
- <img align="left" alt="Gmail" width="40px" hight="40px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
+ <img align="left" alt="Gmail" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohammed-sinan-396640260/">
-  <img align="left" alt="Linkedin" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
+  <img align="left" alt="Linkedin" width="60px" hight="60px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
+</br>
+</br>
+
 <a href="https://www.reddit.com/user/X_Ashutosh_X">
   <img align="left" alt=" Reddit" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
 </a>
