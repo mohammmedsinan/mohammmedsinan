@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Greetings friend 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/mecha1.gif">
@@ -11,19 +11,22 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm a Front-end Developer with three years of Web development experience, also I have experience in Back-end.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/shinji.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+### - Proficient :
+- 🟣 UmiJs & ANTd
+- 🟪 Astro & GatsBy
+- 🟣 ReactJs & NextJs
+- 🟪 Tailwind & Scss & Less
+- 🟣 Javascript with makeup = Typescript
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- 🟪 Watching [Films, TV Shows, Anime]
+- 🟣 Reading [Books, Novels & Light novels, Manga]
+- 🟪 Building Smart home
+- 🟣 
 
 </br>
 </br>
