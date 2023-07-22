@@ -75,8 +75,12 @@ If you want to reach out to me about anything, this is my social media links ✍
 </a>
 <a href="https://www.linkedin.com/in/mohammed-sinan-396640260/">
   <img align="left" alt="Linkedin" width="60px" hight="60px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/linkedin.png" />
-</a>
 </br>
+</br>
+</br>
+</br>
+</br>
+</a>
 
 <a href="https://twitter.com/MohammedSMofeed">
   <img align="left" alt=" Reddit" width="70px" hight="70px" src="https://github.com/mohammmedsinan/mohammmedsinan/blob/main/assets/twitter.png" />
