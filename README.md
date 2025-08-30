@@ -1,87 +1,79 @@
-# 👨‍💻 Hey there! I'm Mohammed Sinan 
+# Mohammed Sinan 👋
+**Software Developer | Full-Stack Engineer | AI & Cloud Enthusiast**  
 
-**Full-Stack Developer | Performance Optimizer | Open-Source Contributor**  
-*Building scalable web apps that don’t just work—they fly.* 🚀  
-
-📍 Based in Iraq | 🌐 Open to remote collaborations  
-
----
-
-## 🛠 **Technical Toolkit**
-
-### **Frontend Mastery**  
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-### **Backend & Databases**  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-### **DevOps & Tools**  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+📞 +964 7723424247 | ✉️ mohammedbusiness1099@gmail.com  
+🌐 [Portfolio](https://mohammed-sinan.netlify.app/) | 🐱 [GitHub](https://github.com/mohammmedsinan) | 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-sinan-396640260/)
 
 ---
 
-## 🏆 **Career Highlights**
-
-### **At OPTIMIZA Digital Inc**
-- **60% Performance Boost**: Optimized a dashboard for 40k+ users using serverless APIs and caching.  
-- **14 Landing Pages in Record Time**: Built with pure HTML/CSS/JS, increasing company revenue.  
-- **CI/CD Automation**: Implemented Bitbucket pipelines saving dozens of deployment hours.  
-
-### **Freelance Projects**
-- **Auto-Deploy Systems**: Created zero-touch demo deployments using Netlify + GitHub Actions.  
-- **Starter Kits**: Reduced project setup time by 43% with MERN/React/Gatsby templates.  
+## 🚀 About Me
+I’m a **Software Developer** with 4+ years of experience in full-stack development, specializing in Node.js and JavaScript/TypeScript ecosystems. I have delivered **23+ real-world projects**, optimized backend performance by up to **60%**, and implemented scalable enterprise and serverless solutions using **CI/CD pipelines** and **cloud architectures**.
 
 ---
 
-## 🔥 **Featured Projects**
+## 💼 Work Experience
 
-### 🚀 [Dashboard Project](https://dashboard-react-2.netlify.app)
-*A high-performance admin dashboard with smart Redux architecture*  
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)]() 
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)]()
-[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack)]()
+### OPTIMIZA Digital Inc — Full-Stack Developer (Remote)  
+*Kitchener, Canada | Jun 2021 – Present*
 
-**Key Features:**  
-✔ Dynamic theme switching (primary colors, fonts)  
-✔ One-line Redux slice generation  
-✔ Production-optimized Webpack config  
+**KooraKings Project**  
+- Developed scalable fantasy football platform (Frontend: Ant Design/UmiJS, Backend: Sails.js/Waterline/MySQL)  
+- Optimized backend, reducing database load by **40%**  
+- Built CI/CD pipelines (Bitbucket → Firebase → GCP)  
+- Integrated real-time football data provider for live updates  
+- Scaled platform to **50K+ users**, managing **600+ contests**  
 
-### 🌐 [Integrator Project](https://github.com/your-repo)
-*Open-source toolkit for 55+ web service integrations*  
-[![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro)]() 
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)]()
+**Localeyes AI Project**  
+- Backend development using NestJS, TypeORM, MySQL on **Google Cloud**  
+- Modular services with RBAC for security (auth, users, reviews, organization, GMB integration)  
+- Integrated LLMs and AI pipelines for **SEO optimization**  
+- Contributed **53%** to frontend development  
 
-**Key Features:**  
-✔ 100% Lighthouse score  
-✔ Dark/light mode + customizable themes  
-✔ Headless components for easy reuse  
+**Marham Project**  
+- Collaborated on three healthcare portals (doctors, centers, patients) to improve accessibility  
 
----
-
-## 📈 **GitHub Analytics**
-
-| ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammmedsinan&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammmedsinan&layout=compact&theme=radical&hide_border=true) |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+### Freelance — Full-Stack Developer (Remote)  
+*Jan 2019 – Jun 2022*  
+- Delivered custom web projects using React, Tailwind, Astro  
+- Built modular, reusable components for scalable applications  
+- Integrated third-party APIs and automated workflows  
+- Optimized Lighthouse/PageSpeed scores for high-performance websites  
 
 ---
 
-## 📫 **Let’s Collaborate!**
+## 💻 Projects
 
-I’m always open to:  
-- 🤝 **Freelance projects**  
-- 🌟 **Open-source contributions**  
-- 💼 **Full-time remote roles**  
+### Dashboard Project
+**Tech:** React, Redux, AntD, Chart.js, Less, Axios, Router  
+- Dynamic routing and Redux state management system  
+- Modular, reusable components for interactive dashboards  
+- Scalable architecture for production-grade React apps  
+- Custom Webpack & Babel setup for optimized builds  
 
-📧 Reach me at: **mohammedbusiness1099@gmail.com**  
+**Live Projects:**  
+- [KooraKings](https://koorakings.com)  
+- [Localeyes AI](https://localeyes.ai)  
+- [Marham](https://marham.care)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge)](https://your-portfolio-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+---
+
+## 🛠 Technical Skills
+
+**Frontend:** React, Next.js, Gatsby, JS/TS, HTML, CSS, Less, Sass, Tailwind, AntD, Bootstrap  
+**Backend:** Node.js, NestJS, SailsJS, Express, GraphQL, Firebase, MongoDB, MySQL, MariaDB, Supabase  
+**Tools:** Webpack, Vite, TypeORM, Drizzle, Prisma, Waterline, Babel, Git, Jest, CI/CD (Bitbucket, GitHub Actions)  
+**Other:** Python, AWS, GCP  
+
+---
+
+## 🎓 Education & Certifications
+
+**University of Tikrit** – BBA (2022–2026)  
+**HackerRank** – Software Engineer (Mar 2025) [Certificate](https://www.hackerrank.com/certificates/82d47e7b38f5)  
+**FreeCodeCamp** – JS / Algorithms and Data Structures (Mar 2025) [Certificate](https://freecodecamp.org/certification/fcc3c73bf9b-a6f3-4c4b-b4e0-173354fc95ad/javascript-algorithms-and-data-structures-v8)  
+
+---
+
+## 🌟 Fun Fact
+I love turning complex problems into clean, maintainable code and scaling projects from zero to thousands of users. Always exploring new tech, AI, and cloud solutions!  
+
