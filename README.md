@@ -2,7 +2,7 @@
 **Software Developer | Full-Stack Engineer | AI & Cloud Enthusiast**  
 
 📞 +964 7723424247 | ✉️ mohammedbusiness1099@gmail.com  
-🌐 [Portfolio](https://mohammed-sinan.netlify.app/) | 🐱 [GitHub](https://github.com/mohammmedsinan) | 🔗 [LinkedIn](https://www.linkedin.com/in/msinan1/)
+🌐 [Portfolio](https://msinan.xyz/) | 🐱 [GitHub](https://github.com/mohammmedsinan) | 🔗 [LinkedIn](https://www.linkedin.com/in/msinan1/)
 
 ---
 
